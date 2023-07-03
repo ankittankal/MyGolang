@@ -1,0 +1,9 @@
+Database : MySql
+GORM package
+Json marshall, unmarshell
+Project structure
+Gorilla Mux
+
+Notes :
+        1. Go.mod file is something similar to package.json in Node js.
+        2. 
